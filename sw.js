@@ -5,8 +5,8 @@ const cacheName = 'js13kPWA-v1';
 const appShellFiles = [
   '/pwa/',
   '/pwa/index.html',
-  '/pwa/app.js',
-  '/pwa/style.css',
+  '/pwa/js/app.js',
+  '/pwa/css/style.css',
   '/pwa/fonts/graduate.eot',
   '/pwa/fonts/graduate.ttf',
   '/pwa/fonts/graduate.woff',
