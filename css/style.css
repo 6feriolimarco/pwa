@@ -42,7 +42,7 @@ a {
 	color: #b12a34;
 }
 header {
-	background: #2d2d2d url(img/bg.png) repeat;
+	background: #2d2d2d url('img/bg.png') repeat;
 	border-top: 0.2em solid #a52730;
 	border-bottom: 0.2em solid #fff;
 }
@@ -102,7 +102,7 @@ article img {
 	transition: filter 0.5s;
 }
 footer {
-	background: #2d2d2d url(img/bg.png) repeat;
+	background: #2d2d2d url('img/bg.png') repeat;
 	border-top: 0.2em solid #fff;
 	border-bottom: 0.2em solid #a52730;
 }
